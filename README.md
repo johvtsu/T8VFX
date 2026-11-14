@@ -1,6 +1,6 @@
 # T8VFX
 
-Free app that installs and auto-updates **T8Mods**: visual effects on execution-heavy moves in TEKKEN 8.
+Desktop app to install, configure and auto-update T8Mods, free in-game visual effects for TEKKEN 8
 
 **[Download T8VFX.exe](https://github.com/johvtsu/T8VFX/releases/latest/download/T8VFX.exe)**
 
