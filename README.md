@@ -2,8 +2,6 @@
 
 Desktop app to install, configure and auto-update T8Mods, free in-game visual effects for TEKKEN 8
 
-**[Download T8VFX.exe](https://github.com/johvtsu/T8VFX/releases/latest/download/T8VFX.exe)**
-
 1. Download **T8VFX.exe** and launch it
 2. Pick your fighters and effects
 3. Press the red **Install** button. That's it!
